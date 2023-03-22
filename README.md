@@ -1,11 +1,11 @@
-# Bank_Note_authentication_ML-app
-The aim is to predict whether a given banknote is authentic given a number of measures taken from a photograph.
+# Note_Authentication_ML-app
+The aim is to predict whether a given note is authentic given a number of measures taken from a photograph.
 
 # Algorithm used
 Random forest algorithm is used to build the model.
 
 # Introduction
-Whenever we go to the bank to deposit some cash, the cashier places banknotes in a machine that tells whether a banknote is genuine or counterfeit. The machine uses some classification techniques to do it. There are many machine learning algorithms for classification. Classification is a type of supervised machine learning. There are multiple machine learning algorithms in the classification.
+Whenever we go to the bank to deposit some cash, the cashier places notes in a machine that tells whether a note is genuine or counterfeit. The machine uses some classification techniques to do it. There are many machine learning algorithms for classification. Classification is a type of supervised machine learning. There are multiple machine learning algorithms in the classification.
 We had used random forest algorithm, rather than we can use support vector machine or K nearest neighbour etc.
 
 # About the data
